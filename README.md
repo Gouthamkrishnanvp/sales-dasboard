@@ -1,30 +1,38 @@
-GlobalStore Power BI Dashboard – End-to-End Business Insights Project
+# GlobalStore Power BI Dashboard – End-to-End Business Insights Project
 
-- I successfully completed a 3-page Power BI analytics dashboard as part of my class assignment, focusing on Sales, Profit, and Customer Demographics. This project demonstrates my ability to perform data modeling, create DAX measures, build interactive visuals, and design user-friendly dashboards with bookmarks and slicer controls.
-- 🔹 Page 1 – Sales Analytics
-Built KPIs for Current Sales, Previous Sales, YoY Sales Growth, and Average Sales
+### projrct overview 
 
-Visuals included:
-- Sales by Category & Sub-category (Bar Chart)
-- Sales Comparison (Line Chart)
-- Sales by Segment (Donut Chart)
-- Top 5 Selling Products (Bar Chart)
-- 🔹 Page 2 – Profit Analysis
-Created KPIs for Current Profit, Previous Profit, YoY Profit, and Avg Profit per Unit
-Visuals included:
-Profit by Category & Sub-category
-Profit by Segment
-Profit Trend Comparison (Line Chart)
-- 🔹 Page 3 – Customer Demographics
-KPIs: Total Customers, Total Products, Total Orders, Avg Sales per State
-Visuals included:
-- Top 10 Active Buyers
-- Top 10 Valuable Customers
-- Top 5 Profitable States
-- Profit by Ship Mode
-- Profit & Sales by Region
-  
-- ✨ Additional Features
-- Implemented Bookmarks to hide/show slicers for a cleaner, intuitive layout
-- Designed an interactive experience with dynamic filtering and drill-down insights
-- Used essential DAX measures to calculate KPIs and YoY metrics
+This data analysis project aims to provide insights into the sales performance of a globalsuperstore. by analyyzing various aspects of the sales data, we seek to identify trends, make data-driven recomendations and gain a deeper understandin of the company's performance .
+
+### Data sources
+
+globalstore data: The primary dataset used for this analysis is the "globalstore.xlsx" file, containing detailed information about each sale made by the store 
+
+### Tolls
+
+- Excel - Data Cleaning
+- PowerBI - Data analysis, creating dashboard
+
+### Data Cleaning/Prepration 
+
+In the intial data prepration phas, we performed the following tasks:
+1. Data loading and inspection.
+2. Handling missing value.
+3. Data cleaning and formatting.
+
+### Exploratory Data Analysis
+
+EDA involved exploring the sales data to answer key qyestions, such as: 
+
+1. Which category or product segment generated the highest sales and profit, and what insights did you derive from it?
+2. What trends did you observe in the monthly sales data, and were there any peak or low-performing months?
+3. Which customer segment contributed the most to overall sales and profit?
+
+### Result/Findings
+
+The analysis are summarized as follows:
+1. Technology category generated the highest profit (~$146K), outperforming Furniture and Office Supplies, indicating strong demand and better profit margins in technology products.
+2. Consumer segment contributed the largest share of sales and profit (~52–54%), making it the most valuable customer segment compared to Corporate and Home Office.
+3. Sales showed an increasing trend during the second half of the year, with peak performance around August–December
+
+
