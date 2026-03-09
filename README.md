@@ -4,6 +4,12 @@
 
 This data analysis project aims to provide insights into the sales performance of a globalsuperstore. by analyyzing various aspects of the sales data, we seek to identify trends, make data-driven recomendations and gain a deeper understandin of the company's performance .
 
+<img width="1920" height="1080" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/625a0368-8f5d-44ea-ab72-f54c005be243" />
+
+<img width="1920" height="1080" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/f4c9b651-fa37-4454-9b43-86953eda21aa" />
+
+<img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/00249c45-bb22-4e2c-9654-0be5938a5276" />
+
 ### Data sources
 
 globalstore data: The primary dataset used for this analysis is the "globalstore.xlsx" file, containing detailed information about each sale made by the store 
